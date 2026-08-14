@@ -1,6 +1,6 @@
 # TFNO Flood Depth Surrogate — Delivery Package
 
-A Tucker-factorized Fourier Neural Operator (TFNO) surrogate that predicts pluvial (rainfall-driven) flood water depth over a fixed spatial domain, trained on a library of 2D hydrodynamic simulations. This package contains **only** the core TFNO model, training, and inference code — no CNN/GNN/GNO baselines, no hybrid architectures, no auxiliary-input (EF5 runoff) or cross-domain (Asbury Park, Antigua, Barbuda) variants.
+A Tucker-factorized Fourier Neural Operator (TFNO) surrogate that predicts pluvial (rainfall-driven) flood water depth over a fixed spatial domain, trained on a library of 2D hydrodynamic simulations. This package contains **only** the core TFNO model, training, and inference code — no CNN/GNN/GNO baselines, no hybrid architectures, no auxiliary-input (EF5 runoff) or cross-domain (Antigua, Barbuda) variants.
 
 ## Contents
 
