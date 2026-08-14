@@ -35,7 +35,7 @@ tqdm==4.67.1
 
 ## Input data format
 
-The code expects two directory trees, read by [src/data_loader.py](src/data_loader.py):
+The code expects two directory trees, read by [src/data_loader.py](src/data_loader.py). An empty skeleton of this layout is included at [data/](data/) — drop your own GeoTIFFs into it following the same structure.
 
 **Static features** (`--static_dir`), one shared set of rasters reused across every sample:
 ```
